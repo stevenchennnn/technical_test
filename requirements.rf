@@ -1,0 +1,14 @@
+# -*- coding: utf-8 -*-
+
+###### Requirements Version Specifiers ######
+
+# install selenium
+selenium
+
+# install requests 
+requests
+
+# install pytest
+pytest
+
+
